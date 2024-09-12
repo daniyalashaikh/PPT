@@ -1,0 +1,25 @@
+.property-details {
+    background-color: #f0f8ff; /* Light blue background color */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .property-details button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #4b0082; /* Dark purple color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .property-details button:hover {
+    background-color: #3b0067; /* Slightly darker shade on hover */
+  }
+  
+  .property-details p {
+    font-size: 1.2em;
+  }
+  
